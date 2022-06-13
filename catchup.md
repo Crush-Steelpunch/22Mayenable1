@@ -9,6 +9,7 @@
      - e2-medium
      - ubuntu 22.04
      - add ssh public key (either add it beforehand or paste it in from the `id_rsa.pub`)
+     - ssh to the instance
     - Use the script, create a file 
     - set it as executable with `chmod +x filename`
     - run the deployment script `./filename` and follow the prompts
